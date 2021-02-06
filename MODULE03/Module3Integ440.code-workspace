@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local",
+		"python.pythonPath": "/Users/Diwya/anaconda3/bin/python"
+	}
+}
